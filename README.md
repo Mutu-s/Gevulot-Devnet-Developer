@@ -1,10 +1,9 @@
 # Gevulot-Devnet-Developer
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-sudo apt-get update
-sudo apt-get install build-essential
-sudo apt-get install libssl-dev
-sudo apt-get install protobuf-compiler
+    sudo apt-get update
+    sudo apt-get install build-essential
+    sudo apt-get install protobuf-compiler
 apt install cargo
 sudo apt-get update
 sudo apt-get install pkg-config
